@@ -44,9 +44,7 @@
   <img src="https://github-readme-stats.vercel.app/api?username=Wa8De&theme=radical&hide_border=true&include_all_commits=true&count_private=true" /><br/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Wa8De&theme=radical&hide_border=true" /><br/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Wa8De&theme=radical&hide_border=true&include_all_commits=true&count_private=true&layout=compact" /><br/>
-  
-  <h5>🔝 Top Contributed Repo</h5>
-  <img src="https://github-contributor-stats.vercel.app/api?username=Wa8De&limit=5&theme=dark&combine_all_yearly_contributions=true" /><br/>
+
   
   <hr/>
   
