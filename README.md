@@ -36,10 +36,10 @@
   #### **🛠️ Other:**
   ![GIT](https://img.shields.io/badge/Git-fc6d26?style=plastic&logo=git&logoColor=white)
   ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=plastic&logo=postman&logoColor=white)
-  ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=plastic&logo=jira&logoColor=white)
+  <br/>
 
+  
   [![](https://visitcount.itsvg.in/api?id=Wa8De&icon=2&color=0)](https://visitcount.itsvg.in)
-
   <h5>📊 GitHub Stats:</h5>
   <img src="https://github-readme-stats.vercel.app/api?username=Wa8De&theme=radical&hide_border=true&include_all_commits=true&count_private=true" /><br/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Wa8De&theme=radical&hide_border=true" /><br/>
