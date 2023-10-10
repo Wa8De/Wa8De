@@ -1,4 +1,6 @@
 <div align="center">
+<img src="https://github-widgetbox.vercel.app/api/profile?username=Wa8De&data=repositories,stars,commits" alt="test" >
+
   
   #### **🌐 Socials:**
   [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/elmejduube) 
@@ -6,6 +8,7 @@
   [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/ussamae_) 
   [![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&logoColor=white)](https://twitch.tv/Wa8De) 
   [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/morrocanwade) 
+
 
   #### **💻Tech Stack:**
   ![Python](https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54)
