@@ -1,5 +1,5 @@
 <div align="center">
-<img aria-disabled="true" src="https://github-widgetbox.vercel.app/api/profile?username=Wa8De&data=repositories,stars,commits&theme=muted" alt="test" >
+<img href="#" src="https://github-widgetbox.vercel.app/api/profile?username=Wa8De&data=repositories,stars,commits&theme=muted" alt="test" style="pointer-events: none;">
 
   [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/elmejduube) 
   [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/moroccan.wade)
