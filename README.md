@@ -1,8 +1,6 @@
 <div align="center">
 <img src="https://github-widgetbox.vercel.app/api/profile?username=Wa8De&data=repositories,stars,commits" alt="test" >
 
-  
-  #### **🌐 Socials:**
   [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/elmejduube) 
   [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/moroccan.wade)
   [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/ussamae_) 
