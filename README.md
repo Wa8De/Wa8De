@@ -8,7 +8,7 @@
 
 ## ⚡ Core Technologies
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=react,nodejs,mongodb,tailwind,express" />
+  <img src="https://skillicons.dev/icons?i=react,nodejs,mongodb,tailwind,express,laravel,php" />
 </div>
 
 ## 📊 GitHub Stats
