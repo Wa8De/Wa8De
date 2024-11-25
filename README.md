@@ -1,6 +1,6 @@
 <div align="center">
 
-![Header](https://capsule-render.vercel.app/api?type=waving&color=6366f1&height=190&section=header&text=Ussamaaaa&fontSize=70&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20&descAlignY=80&descAlign=80)
+![Header](https://capsule-render.vercel.app/api?type=waving&color=6366f1&height=190&section=header&text=Ussamaaaa&fontSize=70&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20&descAlignY=80&descAlign=50)
 
 ```javascript
 class About extends Developer {
