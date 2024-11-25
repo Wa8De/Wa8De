@@ -26,11 +26,11 @@
   
   <!-- Professional Networks -->
   <a href="https://linkedin.com/in/YourLinkedIn" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/768px-LinkedIn_logo_initials.png" alt="LinkedIn"/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/768px-LinkedIn_logo_initials.png" alt="LinkedIn" width="35%"/>
   </a>
   <!-- Portfolio & Email -->
   <a href="mailto:ussama.e37@gmail.com">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_%282020%29.svg/1280px-Gmail_icon_%282020%29.svg.png" alt="Email"/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_%282020%29.svg/1280px-Gmail_icon_%282020%29.svg.png" alt="Email" width="35%"/>
   </a>
 </div>
 
