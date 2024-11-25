@@ -5,8 +5,8 @@
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;UI%2FUX+Enthusiast;" alt="Typing SVG" />
 </div>
-## ⚡ Core Technologies
 
+## ⚡ Core Technologies
 <div align="center">
   <img src="https://skillicons.dev/icons?i=react,nodejs,mongodb,tailwind,express" />
 </div>
