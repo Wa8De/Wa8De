@@ -39,19 +39,19 @@ class About extends Developer {
   <br>React
 </td>
 <td align="center" width="96">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="48" height="48" alt="TypeScript" />
-  <br>TypeScript
+  <img src="https://www.svgrepo.com/show/303206/javascript-logo.svg" width="48" height="48" alt="TypeScript" />
+  <br>JavaScript
 </td>
 <td align="center" width="96">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="48" height="48" alt="Node.js" />
-  <br>Node.js
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSKmtAv2G_LoVvYzVphgkaW6W1yj3z0tR7igw&s" width="48" height="48" alt="Node.js" />
+  <br>Express.js
 </td>
 <td align="center" width="96">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" width="48" height="48" alt="MongoDB" />
   <br>MongoDB
 </td>
 <td align="center" width="96">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-plain.svg" width="48" height="48" alt="Tailwind" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Tailwind_CSS_Logo.svg/2560px-Tailwind_CSS_Logo.svg.png" width="48" height="48" alt="Tailwind" />
   <br>Tailwind
 </td>
 </tr>
