@@ -19,23 +19,16 @@
 
 ## 🌐 Connect With Me
 <div align="center">
-  <!-- Social Media -->
   <a href="https://twitter.com/ussamae_" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Logo_of_Twitter.svg/2491px-Logo_of_Twitter.svg.png" alt="Twitter" width="40px"/>
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Twitter" height="30" width="40" />
   </a>
-  
-  <!-- Professional Networks -->
   <a href="https://linkedin.com/in/YourLinkedIn" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/768px-LinkedIn_logo_initials.png" alt="LinkedIn" width="40px"/>
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
   </a>
-  <!-- Portfolio & Email -->
-  <a href="mailto:ussama.e37@gmail.com">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_%282020%29.svg/1280px-Gmail_icon_%282020%29.svg.png" alt="Email" width="40px"/>
+  <a href="mailto:your.email@example.com">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/google.svg" alt="Email" height="30" width="40" />
   </a>
 </div>
-
-<!-- Contact Info with Stats -->
-
 <br/>
 
 </div>
