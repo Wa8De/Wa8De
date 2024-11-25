@@ -18,19 +18,52 @@
 </p>
 
 ## 🌐 Connect With Me
-
 <div align="center">
-  <a href="https://twitter.com/ussamae_">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
+  <!-- Social Media -->
+  <a href="https://twitter.com/ussamae_" target="_blank">
+    <img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white" alt="Twitter"/>
   </a>
-  <a href="https://instagram.com/elmejduube">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
+  <a href="https://instagram.com/elmejduube" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram"/>
   </a>
-  <a href="https://twitch.tv/Wa8De">
-    <img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" alt="Twitch"/>
+  <a href="https://twitch.tv/Wa8De" target="_blank">
+    <img src="https://img.shields.io/badge/Twitch-%239146FF.svg?style=for-the-badge&logo=Twitch&logoColor=white" alt="Twitch"/>
+  </a>
+  
+  <!-- Professional Networks -->
+  <a href="https://linkedin.com/in/YourLinkedIn" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://dev.to/YourDevTo" target="_blank">
+    <img src="https://img.shields.io/badge/dev.to-%230A0A0A.svg?style=for-the-badge&logo=dev.to&logoColor=white" alt="Dev.to"/>
+  </a>
+
+  <!-- Portfolio & Email -->
+  <a href="https://YourPortfolio.com" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139" alt="Portfolio"/>
+  </a>
+  <a href="mailto:your.email@example.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
 </div>
 
+<!-- Contact Info with Stats -->
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=Wa8De&style=flat-square&color=6366f1" alt="Profile Views"/>
+  
+  <p align="center">
+    💼 Open for freelance projects and collaborations<br>
+    📍 Based in Your Location<br>
+    📧 Business Inquiries: your.email@example.com
+  </p>
+</div>
+
+<!-- Support Section -->
+<div align="center">
+  <a href="https://www.buymeacoffee.com/YourUsername" target="_blank">
+    <img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" alt="Buy Me A Coffee"/>
+  </a>
+</div>
 <br/>
 
 </div>
