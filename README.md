@@ -5,19 +5,10 @@
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;UI%2FUX+Enthusiast;" alt="Typing SVG" />
 </div>
-
 ## ⚡ Core Technologies
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=react,nodejs,mongodb,tailwind,express" />
-</div>
-
-## 🎨 Motion & State Management
-<div align="center">
-  <a href="#"><img src="https://img.shields.io/badge/Framer_Motion-black?style=for-the-badge&logo=framer&logoColor=blue"/></a>
-  <a href="#"><img src="https://img.shields.io/badge/GSAP-88CE02?style=for-the-badge&logo=greensock&logoColor=white"/></a>
-  <a href="#"><img src="https://img.shields.io/badge/React_Query-FF4154?style=for-the-badge&logo=react-query&logoColor=white"/></a>
-  <a href="#"><img src="https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white"/></a>
 </div>
 
 ## 📊 GitHub Stats
