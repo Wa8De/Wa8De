@@ -1,7 +1,6 @@
 <div align="center">
 
 ![Header](https://capsule-render.vercel.app/api?type=venom&color=gradient&customColorList=12&height=300&section=header&text=Ussamaaaa&fontSize=90&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Crafting%20Digital%20Experiences%20with%20Code&descSize=25&descAlignY=60&descAlign=50)
-
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;UI%2FUX+Enthusiast;" alt="Typing SVG" />
 </div>
