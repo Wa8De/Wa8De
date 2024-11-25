@@ -17,8 +17,6 @@
   <img width="90%" src="https://github-readme-streak-stats.herokuapp.com/?user=Wa8De&theme=tokyonight&hide_border=true&stroke=6366f1&fire=6366f1&ring=6366f1" />
 </p>
 
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Wa8De&custom_title=Contribution%20Graph&hide_border=true&theme=react-dark&bg_color=0d1117&line=6366f1&point=6366f1)
-
 ## 🌐 Connect With Me
 
 <div align="center">
