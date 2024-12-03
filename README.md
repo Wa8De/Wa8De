@@ -11,12 +11,6 @@
   <img src="https://skillicons.dev/icons?i=react,mongodb,tailwind,express,laravel" />
 </div>
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img width="90%" src="https://github-readme-streak-stats.herokuapp.com/?user=Wa8De&theme=tokyonight&hide_border=true&stroke=6366f1&fire=6366f1&ring=6366f1" />
-</p>
-
 ## 🌐 Connect With Me
 <div align="center">
   <a href="https://twitter.com/ussamae_" target="_blank">
